@@ -1,0 +1,5 @@
+Please note that due to unforeseen circumstances, at least one of
+these .ipinb files is corrupt when I upload it. 
+
+Head over to the .py section of the predator folder to find the code
+to the predator4 code.
